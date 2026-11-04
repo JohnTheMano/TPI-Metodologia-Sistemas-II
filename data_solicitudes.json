@@ -1,0 +1,65 @@
+{
+    "solicitudes": [
+        {
+            "id": 1,
+            "estudiante": {
+                "id": "E1",
+                "nombre": "Juan Perez",
+                "email": "juan@mail.com"
+            },
+            "tipo": "ACADEMICA",
+            "descripcion": "Reclamo de nota",
+            "prioridad": "ALTA",
+            "estado": "EN_PROCESO",
+            "responsable": {
+                "id": "R1",
+                "nombre": "Carlos Ruiz",
+                "area": "Bedelia"
+            }
+        },
+        {
+            "id": 2,
+            "estudiante": {
+                "id": "E2",
+                "nombre": "Maria Gomez",
+                "email": "maria@mail.com"
+            },
+            "tipo": "CERTIFICADO",
+            "descripcion": "Pedido de analitico",
+            "prioridad": "MEDIA",
+            "estado": "PENDIENTE",
+            "responsable": null
+        },
+        {
+            "id": 3,
+            "estudiante": {
+                "id": "E1",
+                "nombre": "Juan Perez",
+                "email": "juan@mail.com"
+            },
+            "tipo": "ACADEMICA",
+            "descripcion": "Reclamo de nota",
+            "prioridad": "ALTA",
+            "estado": "EN_PROCESO",
+            "responsable": {
+                "id": "R1",
+                "nombre": "Carlos Ruiz",
+                "area": "Bedelia"
+            }
+        },
+        {
+            "id": 4,
+            "estudiante": {
+                "id": "E2",
+                "nombre": "Maria Gomez",
+                "email": "maria@mail.com"
+            },
+            "tipo": "CERTIFICADO",
+            "descripcion": "Pedido de analitico",
+            "prioridad": "MEDIA",
+            "estado": "PENDIENTE",
+            "responsable": null
+        }
+    ],
+    "counter": 5
+}
